@@ -3,14 +3,14 @@
 The NLP project will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
 ## Dataset
-The data is taken from https://www.kaggle.com/c/yelp-recsys-2013
-Each observation in this dataset is a review of a particular business by a particular user.
+1. The data is taken from https://www.kaggle.com/c/yelp-recsys-2013
+2. Each observation in this dataset is a review of a particular business by a particular user.
 
 ## Technologies used
-Python
-Data Visualization
-Feature Engineering
-Machine Learning
+1. Python
+2. Data Visualization
+3. Feature Engineering
+4. Machine Learning
 
 ## Project Tasks
 ### 1. Import and load the data
