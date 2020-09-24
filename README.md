@@ -1,4 +1,4 @@
-# Natural Language Processing to classify the Yelp Reviews into 1 through 5 stars
+# Natural Language Processing to classify the Yelp Reviews from 1 through 5 stars
 ## Project Description
 The NLP project will be attempting to classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews.
 
