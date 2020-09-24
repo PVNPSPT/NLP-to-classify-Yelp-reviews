@@ -18,7 +18,7 @@ Imported and loaded the data from yelp csv file into **DataFrame**. Examined the
 ### 2. Exploratory Data Analysis
 Analyzed different features by plotting different kinds of graphs using **Seaborn FaceGrid**, **Boxplot**, **countplot**. Examined the important features from the correlation coefficient provided by **Heatmap**.
 ### 3. Feature Extraction (Vectorization)
-Scikit-learn’s <code>CountVectorizer</code> is used to convert the reviews text to a vector of term/token counts. This is used as a input for the Machine Learning model.
+Scikit-learn’s **CountVectorizer** is used to convert the reviews text to a vector of term/token counts. This is used as a input for the Machine Learning model.
 ### 4. Train a Machine Learning model
 Built a Machine Learning model uisng **Multinomial Naive Bayes Classifer** to classify the discrete features i.e. word counts for text classification.
 ### 5. Predictions and Evaluations
